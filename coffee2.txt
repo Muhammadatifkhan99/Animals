@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 this is an empty file that contains nothing is just for demo
+=======
+             ;,'
+     _o_    ;:;'
+ ,-.'---`.__ ;
+((j`=====',-'
+ `-\     /
+    `-=-'     hjw
+>>>>>>> 2992a5bc36b7ce787d84c57dc20c23a7fbbaa07e
